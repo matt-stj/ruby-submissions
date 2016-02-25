@@ -3,43 +3,42 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://imgur.com/a/Fur9a)
+[BetterNotes]https://github.com/matt-stj/better-notes)
 
 ### Link to Your Commits in the Github Repository for the Project
-[TeamMate 1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
-[TeamMate 2](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[Matt Rooney](https://github.com/matt-stj/better-notes/commits?author=MattRooney)
+[Matt Stjernholm](https://github.com/matt-stj/better-notes/commits?author=matt-stj)
 
 ### Provide a screenshot of your application
 
 ### Link to any pull requests you submitted outside of your project
-- link
-- description of work
+[Getters and Setters for File-Bin](https://github.com/stevekinney/file-bin/pull/12)
+- Build getters and setters for fethching and reassigning File-Bin's base directory property.  
 
-### Talk about something from the pre-work that you didn't know about before this week.
--[Hint - pre-work list is in the lesson plan](https://github.com/turingschool/lesson_plans/edit/master/ruby_04-apis_and_scalability/bartleby_project.markdown)
+### Talk about something from the pre-work that you didn't know about before this week.  
+- It was cool to learn that we could make a realtime webapp with the technology we used for this project.
 
 ### How far were you able to get on features in your application
+- All Base functionality complete.  Added a couple small bells and whistles, but mostly tussled with an extension of trying to use implement our getter and setter functions from File-Bin to change our base directory.
 
 ### Link to blog post(s) submitted
 
 ### Part 1:
-  - Title:
-  - Summary:
-  - Link:
+  - Title: Lessons Learned From Building an Electron Desktop App (Ember.js +File-Bin)
+  - Summary: Electron is awesome.  Ember is hard. Contributing to File-Bin was neat.
+  - [Link:](https://medium.com/@matt_stj/lessons-learned-from-building-an-electron-desktop-app-ember-js-file-bin-676c87434716#.ni7fyyecg)
 
-### Part 2:
-  - Title:
-  - Summary:
-  - Link:  
-
-### Part 3:
+### Part 2: 
   - Title:
   - Summary:
   - Link:  
 
 ## Risk Taking
   - What risks did you feel you took on this project?
+  - Tried to add functionality that wasn't required and failed at implementing it, but learned a ton while banging our heads against the keyboard.  Working with Electron's main process became much more clear, and we picked up quite a bit about how Ember Data is passed around.
+
   - How do you feel about those risks?
+  - Frustrated that we didn't get it to work, but happy that we tried it.  Seemed to be a great exercise to try implementing our File-Bin conribution within our project.  Really helped tie together the process of contributing to an open-source library.
 
 ### Please feel free to ask any other questions or make any other statements below!
 
